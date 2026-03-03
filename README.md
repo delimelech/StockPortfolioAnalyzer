@@ -17,14 +17,6 @@ This isn't another generic portfolio tracker. This system delivers **brutal trut
 - **8-card dashboard** - Instant portfolio health visualization
 - **Dark mode reporting** - Beautiful HTML reports with professional styling
 
-### Real Results
-
-**Feb 28 → Mar 3, 2026:**
-- Portfolio: -0.69% → **+3.15%** (+3.84% swing)
-- First time positive after systematic loser elimination
-- **Strategy validation:** User followed advice, portfolio responded immediately
-
----
 
 ## 🚀 Quick Start for AI Agents
 
