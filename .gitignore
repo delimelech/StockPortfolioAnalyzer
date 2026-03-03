@@ -1,0 +1,51 @@
+# Portfolio Analysis System - Git Ignore
+
+# Exclude generated reports (user's private portfolio data)
+Reports/
+*.html
+
+# Exclude Claude Code project memory (user-specific)
+.claude/
+
+# Exclude user's actual portfolio data files
+My_Portfolio_Positions.csv
+PASTE_PORTFOLIO_HERE.txt
+portfolio_data_latest.json
+portfolio_analysis_latest.json
+portfolio_analysis_feb25.json
+portfolio_complete_analysis_feb25.json
+portfolio_complete_feb25.csv
+portfolio_current_prices.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

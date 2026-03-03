@@ -1,0 +1,58 @@
+═══════════════════════════════════════════════════════════════
+    HOW TO UPDATE YOUR PORTFOLIO DATA
+═══════════════════════════════════════════════════════════════
+
+You have 3 EASY options:
+
+═══════════════════════════════════════════════════════════════
+OPTION 1: USE THE PASTE FILE (RECOMMENDED - NO LINE LIMITS!)
+═══════════════════════════════════════════════════════════════
+
+1. Open file: PASTE_PORTFOLIO_HERE.txt
+2. Copy ALL your positions from your broker
+3. Paste into the file (replacing sample data)
+4. Save file (Ctrl+S)
+5. Say "analyze my portfolio" in chat
+
+✅ Benefits:
+- No 25-line limit
+- Paste 50, 100, even 500 positions at once
+- No need to split into multiple pastes
+- I read the file automatically
+
+═══════════════════════════════════════════════════════════════
+OPTION 2: UPDATE THE CSV DIRECTLY
+═══════════════════════════════════════════════════════════════
+
+1. Open: My_Portfolio_Positions.csv
+2. Update quantities, prices, add/remove rows
+3. Save file
+4. Say "analyze my portfolio" in chat
+
+✅ Benefits:
+- Works in Excel or any text editor
+- Keep historical notes
+- Easy to add/remove positions
+
+═══════════════════════════════════════════════════════════════
+OPTION 3: TELL ME IN CHAT
+═══════════════════════════════════════════════════════════════
+
+Just say:
+- "I bought 10 NVDA at $650"
+- "I sold all ASAN"
+- "Update AMZN to 15 shares"
+
+✅ Benefits:
+- Quick for small changes
+- I update the CSV for you
+- Natural language
+
+═══════════════════════════════════════════════════════════════
+RECOMMENDATION:
+═══════════════════════════════════════════════════════════════
+
+For FULL portfolio updates → Use OPTION 1 (PASTE_PORTFOLIO_HERE.txt)
+For individual trades → Use OPTION 3 (tell me in chat)
+
+═══════════════════════════════════════════════════════════════
